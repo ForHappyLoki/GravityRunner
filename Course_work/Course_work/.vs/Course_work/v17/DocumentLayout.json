@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|d:\\learning\\course_work_1_oop\\course_work\\course_work\\course_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|solutionrelative:course_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\course_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|solutionrelative:course_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\course_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|solutionrelative:course_work\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\course_work\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B27BDD-5117-4670-A09A-4B9C1F6A75F5}|Course_work\\Course_work.csproj|solutionrelative:course_work\\factorymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\Program.cs",
+              "RelativeDocumentMoniker": "Course_work\\Program.cs",
+              "ToolTip": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\Program.cs",
+              "RelativeToolTip": "Course_work\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:48:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryMethod.cs",
+              "DocumentMoniker": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\FactoryMethod.cs",
+              "RelativeDocumentMoniker": "Course_work\\FactoryMethod.cs",
+              "ToolTip": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\FactoryMethod.cs",
+              "RelativeToolTip": "Course_work\\FactoryMethod.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:44:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\Form1.cs",
+              "RelativeDocumentMoniker": "Course_work\\Form1.cs",
+              "ToolTip": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\Form1.cs",
+              "RelativeToolTip": "Course_work\\Form1.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAgwIcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:39:51.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\Form1.cs",
+              "RelativeDocumentMoniker": "Course_work\\Form1.cs",
+              "ToolTip": "D:\\Learning\\Course_work_1_OOP\\Course_work\\Course_work\\Course_work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Course_work\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:37:01.55Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
